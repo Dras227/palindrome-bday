@@ -84,3 +84,21 @@ button {
         
     
 }
+
+@media screen and (max-width: 300px) {
+
+    .header {
+        font-size: 15px;
+    }
+
+    input,
+    label {
+        font-size: 10px;
+    }
+
+    .output {
+        font-size: 15px;
+    }
+
+
+}
