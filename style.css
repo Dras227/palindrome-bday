@@ -69,3 +69,18 @@ button {
     padding:7px 13px;
     border-radius: 10px;
 }
+
+@media screen and (max-width: 477px) {
+    
+        .header {
+            font-size: 20px;
+        }
+        input,label {
+            font-size: 15px;
+        }
+        .output{
+            font-size: 15px;
+        }
+        
+    
+}
